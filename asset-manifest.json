@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SHub_Test2/static/css/main.bd1d98a2.css",
+    "main.js": "/SHub_Test2/static/js/main.d6452768.js",
+    "index.html": "/SHub_Test2/index.html",
+    "main.bd1d98a2.css.map": "/SHub_Test2/static/css/main.bd1d98a2.css.map",
+    "main.d6452768.js.map": "/SHub_Test2/static/js/main.d6452768.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd1d98a2.css",
+    "static/js/main.d6452768.js"
+  ]
+}
